@@ -1,7 +1,7 @@
 ---
 extends: _layouts.documentation
 title: "Alerts"
-description: Examples of building alert components with Tailwind CSS.
+description: Examples of building alert components with Tailwind CSS
 titleBorder: true
 ---
 
